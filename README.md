@@ -2,7 +2,6 @@ Beyond Deterministic AI: A Probabilistic Multi-Path Model for Subconscious-Like 
 BeyondDeterministicAI
 A Probabilistic Multi-Path Model for Subconscious-Like Thinking
 
-Description
 BeyondDeterministicAI is an advanced AI framework that moves beyond traditional deterministic processing by introducing probabilistic multi-path exploration, simulating subconscious-like thought patterns. Inspired by human cognitive biases and intuition, this model enables AI to retain and weigh lower-probability thought paths instead of discarding them entirely.
 
 Key Features
